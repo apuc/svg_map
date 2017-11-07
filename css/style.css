@@ -1,0 +1,24 @@
+.mapBox {
+    width: 600px;
+    height: 500px;
+    margin: 0 auto;
+}
+
+.controlBox {
+    width: 600px;
+    margin: 10px auto;
+}
+.controlBox span {
+    cursor: pointer;
+    font-size: 30px;
+}
+
+.controlBox a {
+    text-decoration: none;
+    color: black;
+}
+
+#svgMapFile {
+    width: 600px;
+    height: 500px;
+}
